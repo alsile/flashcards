@@ -10,7 +10,7 @@ Flashcard app allows you to add flashcards to study! Users can:
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/UeOPP0T" width=200><br>
+https://imgur.com/a/UeOPP0T
 
 ## Required
 - [X] User can create a card and still see their created card when the app is relaunched.
