@@ -1,5 +1,15 @@
 ## Flashcards
 
+## Lab 4
+
+### App Walk-though
+https://imgur.com/a/QpEKIFL
+
+## Required
+- [X] User sees a transition animation when going from the main screen to the add card screen.
+- [X] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [X] User sees flashcards animating in / out when the 'next' button is tapped
+
 ## Lab 3
 
 ### App Description
@@ -7,10 +17,6 @@ Flashcard app allows you to add flashcards to study! Users can:
    - Click the card to reveal the answer
    - Click next to see other questions
    - Click the plus button add a new flashcard
-
-### App Walk-though
-
-https://imgur.com/a/UeOPP0T
 
 ## Required
 - [X] User can create a card and still see their created card when the app is relaunched.
@@ -21,6 +27,7 @@ https://imgur.com/a/UeOPP0T
 - [ ] Flashcards are shown in random order instead of the order they were created in
 - [ ] User can edit a card and see the edit saved when they browse through their deck of cards
 - [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
+
 ## Lab 2
 
 ## Required
